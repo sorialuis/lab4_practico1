@@ -4,6 +4,8 @@ Luis Soria
 
 ###Links
 
-`<link>` : [Links](./CV.md)
+`<link>` : [CV](./CV.md)
+`<link>` : [PullRequest](./pullrequest.md)
+
 
 
