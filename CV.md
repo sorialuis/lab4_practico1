@@ -1,4 +1,5 @@
-###Datos Personales
+Datos Personales
+================
 
 Dato  | Atributo
 ------------- | -------------
